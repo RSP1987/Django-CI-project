@@ -1,2 +1,3 @@
+pip install -r Django-CI-project/requirements.txt
 Django
 numpy
